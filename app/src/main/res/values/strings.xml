@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">Help Me</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="category_feeds">Feeds</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_child_image">Child Image</string>
+    <string name="dummy_button">Save</string>
+    <string name="science_url1"><![CDATA[https://content.guardianapis.com/search?q=&section=science&page=]]></string>
+    <string name="science_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="general_url1"><![CDATA[https://content.guardianapis.com/search?q=&tags=news&page=]]></string>
+    <string name="general_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="business_url1"><![CDATA[https://content.guardianapis.com/search?q=&section=business&page=]]></string>
+    <string name="business_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="technology_url1"><![CDATA[https://content.guardianapis.com/search?q=&section=technology&page=]]></string>
+    <string name="technology_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="sports_url1"><![CDATA[https://content.guardianapis.com/search?q=&section=sport&page=]]></string>
+    <string name="sports_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="money_url1"><![CDATA[https://content.guardianapis.com/search?q=&section=money&page=]]></string>
+    <string name="money_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="travel_url1"><![CDATA[https://content.guardianapis.com/search?q=&section=travel&page=]]></string>
+    <string name="travel_url2"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=d0aceae8-d99e-4a2f-8a05-ce6f02501543]]></string>
+    <string name="share_link_message">Hey check out my app at: https://play.google.com/store/apps/details?id=com.example.mohammedabdullah3296.helpme</string>
+    <string name="myEmailForFeedback">mohammedabdullah3296@gmail.com</string>
+    <string name="auth_failed">Authentication failed.</string>
+    <string name="no_internet_conn">No internet Connection</string>
+    <string name="registeration_failed">Registration failed or email already exist</string>
+    <string name="no_feeds">No Feeds</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="configure">What is the type of news you want to add?</string>
+    <string name="one">1</string>
+    <string name="create_post_child_name">Child Name</string>
+    <string name="create_post_child_age">Child Age</string>
+    <string name="create_post_girl_or_boy">Girl or Boy</string>
+    <string name="create_post_height_in_meters">Height in meters</string>
+    <string name="create_post_weight_in_kilo">Weight in kilo</string>
+    <string name="create_post_heir_color">Heir color</string>
+    <string name="create_post_eyes_color">Eyes color</string>
+    <string name="create_post_description">Description</string>
+    <string name="create_post_chose_image">Chose Image</string>
+    <string name="create_post_your_address">Your Address</string>
+    <string name="create_post_select_address">Select Address</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="news">News</string>
+    <string name="general">General</string>
+    <string name="business">Business</string>
+    <string name="money">Money</string>
+    <string name="technology">Technology</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="travel">Travel</string>
+    <string name="logout">Logout</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="exit">Exit</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="laxman_marothiya">Laxman Marothiya</string>
+    <string name="phone">Phone:</string>
+    <string name="email_">Email:</string>
+
+    <string name="_01155280747">01155280747</string>
+    <string name="signup_">Signup</string>
+
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="user_name">User Name</string>
+    <string name="_45h">45h</string>
+    <string name="hossam_hassan">Hossam Hassan</string>
+    <string name="age">age:</string>
+    <string name="_12">12</string>
+    <string name="gender">gender:</string>
+    <string name="height">height:</string>
+    <string name="weight">weight:</string>
+    <string name="hair">hair:</string>
+    <string name="eyes">eyes:</string>
+    <string name="jkhjk_khukjk_jkbjk_jkbjkb_j_kbjk_jkb_kfjhj_jvkbfjvkbfjv_fkjbvjfbvjhf_vjkfbvjhbuvbfjvhbgf">jkhjk khukjk jkbjk jkbjkb j kbjk jkb kfjhj jvkbfjvkbfjv fkjbvjfbvjhf vjkfbvjhbuvbfjvhbgf</string>
+    <string name="call">call</string>
+    <string name="email___">email</string>
+    <string name="map">map</string>
+    <string name="shareu">share</string>
+    <string name="help_me">Help Me</string>
+    <string name="fci_android_com">FCI@android.com</string>
+    <string name="nnhjhbhj">nnhjhbhj</string>
+
+
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="post">Post</string>
+    <string name="no_articales">No Recipes</string>
+    <string name="no_internet_con">No internet Connection</string>
+    <string name="profile_update">Profile status Updated</string>
+    <string name="error_try_again">Error try again</string>
+    <string name="saved">Saved</string>
+    <string name="first_page">This is First Page</string>
+    <string name="sdfghjkjhg">Change Profile Status</string>
+    <string name="sdfghgf">Please Wait ....</string>
+    <string name="valid_number">Enter a valid Number</string>
+
+    <string name="image_ghgh">Image Updated Successfully</string>
+    <string name="error">Error</string>
+    <string name="createing_account">Creating Account...</string>
+    <string name="cover_image12">cover_image</string>
+    <string name="qscjrjvnbf">At least 3 characters</string>
+    <string name="qwrmkfljbvfol">Enter a valid email address</string>
+    <string name="dkspojvs5">Enter a valid Number</string>
+    <string name="dsmvnsm5654">Between 4 and 10 alphanumeric characters</string>
+    <string name="pfsfvjsl5">Not Matched.</string>
+    <string name="asdfgh874">Between 4 and 10 alphanumeric characters</string>
+    <string name="xfbd54xf23f">Enter a valid email address .</string>
+    <string name="sdfds44fdGfd">Login Failed !</string>
+    <string name="no_articles">No Articles</string>
+    <string name="mobile_ads">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="pathemail">content://path/to/email/attachment</string>
+    <string name="there_hgn">There is a kidnapped child named</string>
+    <string name="fdgsdgrtdgth">and his qualities are as follows:</string>
+    <string name="dfjghbdfjhsik">, aged</string>
+    <string name="gfgh45fh45gf">1- Type:</string>
+    <string name="fdjgdf54">2- Eyes color:</string>
+    <string name="fjgdk5646">3- Length:</string>
+    <string name="defg4">4- Weight:</string>
+    <string name="fdjgdf547">5- Hair color:</string>
+    <string name="dfjsgdbf45">6- Address:</string>
+    <string name="fjxbgvjkdfs65">7- Description:</string>
+    <string name="fmngvmdfs65">Kg</string>
+    <string name="fgfd252dg">m</string>
+    <string name="sdfgddfgs" />
+    <string name="fxgbfd25dfg" />
+    <string name="dfgjbskdmn656">8- Picture Link:</string>
+    <string name="dfbgdf25fbg">9- Phone:</string>
+    <string name="sdfghjklhgfd">succeed</string>
+    <string name="ertyujkgfdtyuj">At least 3 characters</string>
+    <string name="dfghjghkjkhhyjh">Enter a valid age</string>
+    <string name="jhgsdcujikl5352">Enter Girl or Boy</string>
+    <string name="jhfhgfxhfcgjn6335">Enter a valid height</string>
+    <string name="kjghchgjnkl635">Enter a valid weight</string>
+    <string name="jhgfddxcjkl635">Enter a valid color</string>
+    <string name="dfghgjhnl54">Enter a valid color</string>
+    <string name="poioui54">Your Address</string>
+    <string name="kkhjhujgugvh789">Pleas select the address</string>
+    <string name="jhvgfdfc5421">Pleas select the address</string>
+    <string name="eryhyqaesdf">Please Enter the image of the missing child</string>
+    <string name="hgfygcgh656">Name:</string>
+    <string name="hfhtrgeserdxhcgjhvkhjnkl65">Latitude:</string>
+    <string name="hjfghvkj635463">Logitude:</string>
+    <string name="kuyfgthfvhkj65">Address:</string>
+    <string name="ukyfvhgvhjkbkj65659">Select Picture</string>
+    <string name="iuertyuierwhgi545">Changes you made may not be saved.</string>
+    <string name="fjdkbghlsd54">Discard</string>
+    <string name="djghsl545">Keep Editing</string>
+    <string name="fdgshdl566">Uploaded</string>
+    <string name="dfgskhg8788">Failed</string>
+    <string name="dfjghsjk878">Posting</string>
+    <string name="sdhfjsla546">General News</string>
+    <string name="isuefkdjs65">Business</string>
+    <string name="jxbdfk878">Technology</string>
+    <string name="khxbdfvxm687">Science</string>
+    <string name="jkxbvjkn65">Sport</string>
+    <string name="kjxdhfk3548">Money</string>
+    <string name="skjfhdkjs878">Travel</string>
+    <string name="kjcfhxgvkjdfx65">Help Feedback</string>
+    <string name="kjxhjv54">Your Feedback</string>
+    <string name="dfkjgnkdf54">content://path/to/email/attachment</string>
+    <string name="cvjkbfjck546">Authenticating...</string>
+    <string name="big_child_image">BIg Child Image</string>
+    <string name="this_button_for_saving_image">THis button for saving image</string>
+    <string name="dummy">DUMMY</string>
+    <string name="welcome_screen">Welcome screen</string>
+    <string name="df5gdfg5">edit profile</string>
+    <string name="sdfmbdsjfksd54">Laxman Marothiya</string>
+    <string name="s5fg4rs6f">Phone:</string>
+    <string name="sdkfhudaskjre5">Email:</string>
+    <string name="_2_mail_ru">2@mail.ru</string>
+    <string name="fdg54df">01155280747</string>
+</resources>

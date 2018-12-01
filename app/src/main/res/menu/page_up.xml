@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/page_prev"
+        android:orderInCategory="100"
+        android:title="@string/prev"
+        android:tooltipText="Previous Page"
+        app:showAsAction="always"
+        tools:targetApi="o" />
+    <item
+        android:id="@+id/page_up"
+        android:orderInCategory="100"
+        android:title="@string/next"
+        android:tooltipText="Next Page"
+        app:showAsAction="always"
+        tools:targetApi="o" />
+</menu>

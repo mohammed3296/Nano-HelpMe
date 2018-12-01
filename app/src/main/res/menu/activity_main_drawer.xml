@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:title="@string/news">
+        <menu>
+            <item
+                android:id="@+id/general"
+                android:icon="@drawable/following"
+                android:title="@string/general" />
+            <item
+                android:id="@+id/business"
+                android:icon="@drawable/ic_people_black_36dp"
+                android:title="@string/business" />
+            <item
+                android:id="@+id/money"
+                android:icon="@drawable/ic_people_black_36dp"
+                android:title="@string/money" />
+            <item
+                android:id="@+id/technology"
+                android:icon="@drawable/ic_people_black_36dp"
+                android:title="@string/technology" />
+            <item
+                android:id="@+id/science"
+                android:icon="@drawable/ic_people_black_36dp"
+                android:title="@string/science" />
+
+            <item
+                android:id="@+id/sports"
+                android:icon="@drawable/ic_people_black_36dp"
+                android:title="@string/sports" />
+            <item
+                android:id="@+id/travel"
+                android:icon="@drawable/ic_people_black_36dp"
+                android:title="@string/travel" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_manage"
+        android:icon="@drawable/ic_power_settings_new_white_36dp"
+        android:iconTint="@color/black"
+        android:title="@string/logout"
+        tools:targetApi="o" />
+
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback_black_36dp"
+                android:title="@string/feedback" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_exit_to_app_black_36dp"
+        android:title="@string/exit" />
+
+</menu>
